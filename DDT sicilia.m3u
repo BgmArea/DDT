@@ -69,7 +69,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="TV2000.it" tvg-chno="28" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="Altro",TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-id="La7d.it" tvg-name="La7d" tvg-logo="https://i.imgur.com/AOL9nMw.png" group-title="Altro",La7d
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="LA5.it" tvg-chno="30" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la5.png" group-title="Mediaset",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
@@ -323,6 +323,7 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-sicilia.png" group-title="News e Canali Istituzionali",TGR Sicilia
 https://odmsto.com/returned/668707.m3u8
+
 
 
 
