@@ -41,8 +41,8 @@ https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 https://streamcdnb4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rei-tv.png" group-title="Sicilia",Rei Tv
 https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
-#EXTINF:-1 channel-id="66177d18c8311c0008d077d0" tvg-id="66177d18c8311c0008d077d0" tvg-chno="380" tvg-name="Storie Criminali" tvg-logo="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png" group-title="True Crime",Storie Criminali
-https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
+#EXTINF:-1 channel-id="608aa17fb9f4490007e6419a" tvg-id="608aa17fb9f4490007e6419a" tvg-chno="200" tvg-name="Pluto TV Film" tvg-logo="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png" group-title="Film",Pluto TV Film
+https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
@@ -197,6 +197,8 @@ https://57068da1deb21.streamlock.net/teletv8/teletv8/playlist.m3u8
 https://5db313b643fd8.streamlock.net/canale97/canale97/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telegela.jpg" group-title="Sicilia",Telegela 
 https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
+#EXTINF:-1 channel-id="66177d18c8311c0008d077d0" tvg-id="66177d18c8311c0008d077d0" tvg-chno="380" tvg-name="Storie Criminali" tvg-logo="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png" group-title="True Crime",Storie Criminali
+https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="Rai4K.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rai_4K_-_Logo_2022.svg/512px-Rai_4K_-_Logo_2022.svg.png" group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtv-smarino.png" group-title="Altri Canali Nazionali",RTV S.Marino
@@ -261,8 +263,6 @@ https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-kiss-kiss-napoli-tv.png" group-title="Canali Musicali (Web Radio)",Radio Kiss Kiss Napoli Tv
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 channel-id="60b9ff2722bfa400072676ef" tvg-id="60b9ff2722bfa400072676ef" tvg-chno="125" tvg-name="Pluto TV Serie" tvg-logo="https://images.pluto.tv/channels/60b9ff2722bfa400072676ef/colorLogoPNG.png" group-title="Serie",Pluto TV Serie
-https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-zeta-tv.png" group-title="Canali Musicali (Web Radio)",Radio Zeta Tv
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-m2o-tv.png" group-title="Canali Musicali (Web Radio)",Radio m2o Tv
@@ -323,6 +323,7 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-sicilia.png" group-title="News e Canali Istituzionali",TGR Sicilia
 https://odmsto.com/returned/668707.m3u8
+
 
 
 
