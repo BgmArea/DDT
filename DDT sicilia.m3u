@@ -24,7 +24,6 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/antenna-sicilia.png" group-title="Sicilia",Antenna Sicilia
-
 https://euw13.playlist.live-video.net/v1/playlist/CvQFxAiVz3oEnE3FQOO0DxIq9AwI0sUsTz3BxhbXhM7-HvGovCayHvGYwBkEIDeLORhr6htxcXnWBj6QyNlIYbVCKcJC87Wog2bbfustswTR56EXPw7bjG-cxFL3U7UOUYNjAovZn8gpy7ND2qdzx8Hr9wlmgQepsda4Z0USk0K-SNHJWU94ekZ1YNRmnj6CVaeu4KcL_KJ1YNwUO_IiH9e90xnDhbAqjqLYmnNdYHxRoYg1AeQUm1lBmq1r3vsdzAKtZpVKfZHLoYIDH0tmlSDR8yEGVqU-IipbSG5ZetifjK753xc47syUKjJTtKldDphG3KK5n4l4wWhJ0Nw0-thxld2UZNvZYC22S3QELEZCjZFIHmGx7tRUALcCcc987uniPJcu2shXkoco1yQi8KQIdbpK6kycaNPW0xo8ePm0GdIeRdVeswlkFUY8cEGW6s1QElWNiR6Wn7_K3339d9-yQc36d3lFFhYRPAoirrs9rYYsgHIWPOGcRhqIxXzEE-yDDAITmNRAaXzbaXJDjBfm2bLP5A9DOnaE3kK6g26Q857-YQ7cLrRejYdY3s7AK1la8afB5Zz7GbmJsc7Y3Pn0GqdzNRSLerKDjriZkFw1T0fZ91p47Jlo4aZO_gAkTWm2UDXnbEW6EUh6P5Y2E8EotUIoI-Bw4fJQT1b7RvAcAyG4N6UqsMvFqOklNwd_Bb0TLw0uDZr0ODxsMWvtKVZFayWJ5WwBjx-L2oMUHbXzgxI0uh0djrXvmOPVxMu5CGazoxZqDqXXQnyZ7H5NkbEAJM0IttYzAAYKRMwZrSqoJ3prfczsbGJR4gKs99qAvh2VytNREkxyYTYOqMnQ9J4ANtiQb2mFdqv0J9l-i0jy1wS6OqvkSwCqa5S6HpdVd4_eOZuLp6CXkFRAK2w_4f2OdCnztTTVYIOdIEvYCBQhwNuZ1ZmfgQqSfoGfiTAqKxl9XYj22VYtjaMqhBe7GzpbR_ISH3dbbrIBKD0O9GFmw5AmvWWDGgzZWvevoxIkURanwpsgASoJZXUtd2VzdC0yMLIN.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecolor-catania.webp" group-title="Sicilia",Telecolor Catania
 https://tivusto.org/sh/telecolorcat
@@ -400,6 +399,7 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-sicilia.png" group-title="News e Canali Istituzionali",TGR Sicilia
 https://odmsto.com/returned/668707.m3u8
+
 
 
 
