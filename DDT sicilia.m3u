@@ -120,7 +120,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="Digitale Terrestre",Sky TG24
-https://hlslive-web-dai-gcdn-skycdn-it.akamaized.net/linear/hls/pa/event/5FbXm2EaSmy6Hn5303wKSg/stream/0323d798-fba7-4eda-bc2f-202ac7305e1f:GRQ/variant/a9b26c258f9b007e8c26de282290e5bd/bandwidth/848212.m3u8?hdntl=exp=1760166378~acl=%2f*~id=0add6786-eea4-4288-9e96-ad362379036f~data=hdntl~hmac=a6bdc7857512f21fb65e656faa55f7a6b011ac2ed79306ed6f46dc79a4d19868&CMCD=cid%3D1%2Cmtp%3D10400%2Cot%3Dm%2Csf%3Dh%2Csid%3D"e8ba5cee-e99a-42ab-b2ff-301bfcf99190"
+
+https://hlslive-web-dai-gcdn-skycdn-it.akamaized.net/linear/hls/pa/event/5FbXm2EaSmy6Hn5303wKSg/stream/0323d798-fba7-4eda-bc2f-202ac7305e1f:GRQ/master.m3u8?hdnea=st=1760079978~exp=1760080278~acl=*~id=0add6786-eea4-4288-9e96-ad362379036f~hmac=baa0d569f9bbab8d58bcef277950731b9001738cc253d8ffef025556f13a8d63&CMCD=cid%3D1%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22e8ba5cee-e99a-42ab-b2ff-301bfcf99190%22%2Csu
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="DMAX.it" tvg-chno="52" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="Digitale Terrestre",DMAX
@@ -593,6 +594,7 @@ https://jmp2.uk/plu-67851bd7d648bf0008c00bc2.m3u8
 https://jmp2.uk/plu-608016e446d73500075ea7e0.m3u8
 #EXTINF:-1 channel-id="63eb82e24e83e70008ab735f" tvg-id="63eb82e24e83e70008ab735f" tvg-chno="730" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb82e24e83e70008ab735f/colorLogoPNG.png" group-title="Animazione e Bambini",Yu-Gi-Oh!
 https://jmp2.uk/plu-63eb82e24e83e70008ab735f.m3u8
+
 
 
 
