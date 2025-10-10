@@ -120,8 +120,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="Digitale Terrestre",Sky TG24
-
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760100572/ei/fKzoaNuqEt7Op-oPrPnbsAY/ip/79.19.160.221/id/P24A4AeGbbw.17/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51554425/txs/51554424%2C51554425/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/gcr/it/ss/1/bui/ATw7iSVatoLQl0ne62d3s43egljwZcZkc-_LOOPb43m9WrvcGBq3KlfEFNjczdGprlYljdiTX9sn4P99/spc/hcYD5dR0KeIG9AqLb_Dd0b4hVfV7r1X3VcTM0KSD3eGqeFEI0z_9t6HklK4lWg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL5VIBo34yZpM5cSVzLFkwK7H-x1stlnuOhPYuQsX2t_AiAbOg7xlL7UoSmH6xHn0g2HNyeuU_3E68VCW-vlwCApNg%3D%3D/file/index.m3u8
+https://hlslive-web-dai-gcdn-skycdn-it.akamaized.net/linear/hls/pa/event/5FbXm2EaSmy6Hn5303wKSg/stream/55807b46-2eec-4ab2-9cfe-1b5cbe5a1af6:BRU/master.m3u8?hdnea=st=1760079395~exp=1760079695~acl=*~id=641a5d44-0507-49dc-b087-053bd7318268~hmac=e159938063ebf69c9786423d3324395c7e47e6e8eac5afb7d36a45b0f8a9983e&CMCD=cid%3D1%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%221b29f5dd-1585-425b-8149-bb29ab048b6f%22%2Csu
 #EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="Digitale Terrestre",TGCOM 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
@@ -595,6 +594,7 @@ https://jmp2.uk/plu-67851bd7d648bf0008c00bc2.m3u8
 https://jmp2.uk/plu-608016e446d73500075ea7e0.m3u8
 #EXTINF:-1 channel-id="63eb82e24e83e70008ab735f" tvg-id="63eb82e24e83e70008ab735f" tvg-chno="730" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb82e24e83e70008ab735f/colorLogoPNG.png" group-title="Animazione e Bambini",Yu-Gi-Oh!
 https://jmp2.uk/plu-63eb82e24e83e70008ab735f.m3u8
+
 
 
 
