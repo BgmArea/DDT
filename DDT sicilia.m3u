@@ -209,7 +209,7 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtv-smarino.png" group-title="Digitale Terrestre",RTV S.Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-logo="http://odmsto.com/uploads/tv_image/sm/cusano-italia-tv.png" group-title="Digitale Terrestre",Cusano Italia TV
-https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+https://www.hlsplayer.org/play?url=https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-channel.png" group-title="Digitale Terrestre",Italia Channel
 https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 #EXTINF:-1 tvg-id="PadrePioTV.it" tvg-chno="145" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/padrepiotv.png" group-title="Digitale Terrestre",Padre Pio TV
@@ -601,6 +601,7 @@ https://jmp2.uk/plu-67851bd7d648bf0008c00bc2.m3u8
 https://jmp2.uk/plu-608016e446d73500075ea7e0.m3u8
 #EXTINF:-1 channel-id="63eb82e24e83e70008ab735f" tvg-id="63eb82e24e83e70008ab735f" tvg-chno="730" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb82e24e83e70008ab735f/colorLogoPNG.png" group-title="Animazione e Bambini",Yu-Gi-Oh!
 https://jmp2.uk/plu-63eb82e24e83e70008ab735f.m3u8
+
 
 
 
