@@ -54,7 +54,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forc
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="Digitale Terrestre",Rai 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/playlist_ma.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1761836549&tof=86400&tk2=75e386fbf9d304bb9ce03496791e8889100266798de84a4866583b26ebb243a4
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/playlist_ma.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1761836916&tof=86400&tk2=501779a0553dab8e949995162b567591675da18a7b409378a004d8521f0133f8
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png" group-title="Digitale Terrestre",Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
@@ -601,6 +601,7 @@ https://jmp2.uk/plu-67851bd7d648bf0008c00bc2.m3u8
 https://jmp2.uk/plu-608016e446d73500075ea7e0.m3u8
 #EXTINF:-1 channel-id="63eb82e24e83e70008ab735f" tvg-id="63eb82e24e83e70008ab735f" tvg-chno="730" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb82e24e83e70008ab735f/colorLogoPNG.png" group-title="Animazione e Bambini",Yu-Gi-Oh!
 https://jmp2.uk/plu-63eb82e24e83e70008ab735f.m3u8
+
 
 
 
