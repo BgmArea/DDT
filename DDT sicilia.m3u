@@ -29,14 +29,14 @@ https://euw13.playlist.live-video.net/v1/playlist/CvQFxAiVz3oEnE3FQOO0DxIq9AwI0s
 https://tivusto.org/sh/telecolorcat
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgs-giornale-di-sicilia.png" group-title="Digitale Terrestre",TGS Giornale di Sicilia 
 https://stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8
-#EXTINF:-1 channel-id="608aa17fb9f4490007e6419a" tvg-id="608aa17fb9f4490007e6419a" tvg-chno="200" tvg-name="Pluto TV Film" tvg-logo="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png" group-title="Pluto TV",Pluto TV Film
-https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
-#EXTINF:-1 channel-id="60b9ff2722bfa400072676ef" tvg-id="60b9ff2722bfa400072676ef" tvg-chno="125" tvg-name="Pluto TV Serie" tvg-logo="https://images.pluto.tv/channels/60b9ff2722bfa400072676ef/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Serie
-https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
+#EXTINF:-1 channel-id="608aa17fb9f4490007e6419a" tvg-id="608aa17fb9f4490007e6419a" tvg-chno="200" tvg-name="Pluto TV Film" tvg-logo="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png" group-title="Film",Pluto TV Film
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=744d93ad-ab7e-465a-aefd-fccab379e666&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=2dbfc42e-1ac3-4a07-be17-1375512bf29d&userId=&serverSideAds=true
+#EXTINF:-1 channel-id="66177d18c8311c0008d077d0" tvg-id="66177d18c8311c0008d077d0" tvg-chno="385" tvg-name="Storie Criminali" tvg-logo="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png" group-title="True Crime",Storie Criminali
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/66177d18c8311c0008d077d0/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=7b3124c7-d573-45d6-abea-83d2c97ca8a7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=646522da-f67f-49eb-862c-f71ed9f2bcb3&userId=&serverSideAds=true
 #EXTINF:-1 tvg-chno="14" tvg-logo="http://odmsto.com/uploads/tv_image/sm/video-regione-sicilia.jpg" group-title="Digitale Terrestre",Video Regione Sicilia
 https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
 #EXTINF:-1 channel-id="61b86ea479a4390007c6d5fc" tvg-id="61b86ea479a4390007c6d5fc" tvg-chno="900" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="News e mondo",Euronews
-https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=c723fcb7-c6c7-4914-b9b2-eda51d6199ae&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=1f3ab33d-05f6-4349-bc06-9adab3500e3d&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-one.png" group-title="Digitale Terrestre",Tele One
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/video-mediterraneo.png" group-title="Sicilia",Video Mediterraneo
@@ -572,6 +572,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63eb82e24e83e70008
 https://odmsto.com/returned/668707.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI ITALIA
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+
 
 
 
