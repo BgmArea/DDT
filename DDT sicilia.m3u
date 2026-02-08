@@ -62,7 +62,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="Digitale Terrestre",Cielo
-http://117.55.202.236:8008/sunshine/Eq2i4PC1--687R53CnmbOyuKg1m5szue5K4b1R9MkjJc_8RhoB5dDoKkHDoRVNwAIEw7vJRU8KQXBk-NngZN8WzFXC9JlCr-202WHxVfxvWU3AdAcRMsHS_ygGXd01Fl9Vq1NR2xb7vEA-7B67jSiUmTXq8sCatOIiij3ZYW42Q77rleWw61AVgUX7zzam03DARAwwAOFPOXGIBjtGPm8iZpOxqC-YGGYk01g0tcmAntAIFwU4bSLfLGB5FH9ojoN04m0eA5D8fXIaoVy-DstEKGEyFw8H05kq_gINAavoU/hls/index.m3u8
+http://45.143.220.78:8008/sunshine/-68y0_1jsaz9dyBtK1snBhEMV4prdXRkcqqhb5QRFmqPebeOmW00SLMU6MeOe1SNSHHGg253pBPR6bDuRPaLhtjWC2bQ4RQ2sLGMrUkvNmq3dbQBcvf3wQ_lEv6Ry6aZ2NGjj6byYOgxVW2Pulr25hfBfjzXLKRcZTIqLeEpgfbyEUqtrrIRDIkn6I5nxPKQLx_3bBCtyqrV_t47LelKwk6cd7ly_i-3BgwalBRA1iO1einKxluUuWJMJ_wyLA7EMVMnV3jowlWOTcAjjK0XmwKxz4CAoEpdtEOD824gm2w/hls/index.m3u8
 #EXTINF:-1 tvg-id="TwentySeven.it" tvg-chno="27" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.png" group-title="Digitale Terrestre",Twenty Seven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
@@ -341,6 +341,21 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sky_Uno_-_Logo_2021.svg/330px-Sky_Uno_-_Logo_2021.svg.png" group-title="Altro",Sky Uno
 https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/Wp_YkZppLPK_GElHkoM7A_tP0MIEDTTn_qpjkAGXnnOyVSJTc3RBq6S2Uipb8l9eD6I_akY59WinV_hMUgGnNKs8TDiyHWN4EgXod1ejSboRR11D3yNPbYpj3TrG9xrQvz2IIeY9E6kPPbkFHVVima1U-Id4rIN0O4zQw9tJNlPV5GoEWSq768g-f13UXHoY8yw7fxFa7WvCaYTtnz9TlLiBwrzwUCK_aliWJQMPRhAhcXU_x9rbJhDNVWImRxWVIXnnkQ0xkaouH2fiBNjDyv9SwW09xaNmFEdJxYt5z6g/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcLe_SXiNLNgPcpoQ6cJ4h2L-YHl-TKYubA&s" group-title="Altro",Sky Arte
+http://45.143.220.78:8008/sunshine/Ph9CrCjytUbFTZtEPXvWcHuy12xqjbE9Sq2q2WsBnUX3VMpw0QZutlzBp_EIfNwrUW32XwYrB71TgH0cT43jcYgP7CxRHvPdCR0k3tGLtwVm6NFKmPhYzPLDZFOjFOkkSsxH4Nlxr40SUDV3UZ8ukJoqTEG8ErNWuIIzUoRVP8Ezi3K0WsenTXWLDsNHxeyuGSqRZLTP7YDbF-O_tZsFl82W7RHIIHcdCBT_uO842X94-vB1r9q9RMnEPcBvdhK2p7Fbfv7ARX47S8jKJhIYqDVQQKqzboPZN1PBOb0ZMnE/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Sky_Atlantic_.png" group-title="Altro",Sky Atlantic
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/pOybkrMcxVTeblOzv84IbrjLIUk3IojipYsxys1B9cQS0PMq658MoOc22roN1qhiaDhhTLsbOHWCRTfr3X0RiANTd2FRpyLI8LYPxToa1YOlSV61gLCHcuAiqb6uk1BtAd1f1fuTOtI9tscuvGbP1MZLrjEKd8QsPN2ydkx6Ypc9K53mXHbNNi5trBzRhaJEuHOIYvCbPo07juflEcSggdQISxFohQE8qkcTos07yw785jLYW1R41u9kTNf7HDNhbkZ2ThLB_EOFRh-PRX0z-z54yySsbr_WqL-AJ6tIR58/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs7GdGq-r7DZuUgCNAC-qdmD7mPdcNVjTaPQ&s" group-title="Altro",Sky Action
+http://117.55.202.231:8008/sunshine/n7RpuEnw37M1JwGg2iJ_Q3iwKy6sz97STbd4Kfvh9_TEs_Hrra9PxRZ7281ITs9yhpqNFdqgYFMDd_rJ2f4CY3VQAwqrEztgeOzqYAOsr3Bk9QOpjBzbVEHHhd2KICZQTRKTFo3TuvKNl44szQwI0z4UA55sjHpf7diBCUIuNPyWC-HIdHGfSuVePV5jvIiUSx1ZXpHmbVfCoQ8hOrVpPFQHI2YURmcyk42vw6Z-0tWBBsWRWdFl3X2HMi-WaR_jSBvdJageE1A1yymwytYAqpPlpFl9pz4E8rz9C1Z-IXw/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrAWZ-Evyd7S2dMN0v5ykOWfyULoO3JtSNtg&s" group-title="Altro",Sky Cinema Collection
+http://117.55.202.231:8008/sunshine/ZHYiRLfZNdeja0EOEdow7Zhy3w-zclxsPOkBg296LtjlBYtjleIyycJSJOc-IvGCg6cpsit0n51R4UQEzRhCya30EhtNz1pcDXBpUzDw30K30o4uvCe4PmKZwOZ3n5uDN4OQSzKjExwCTiS4f6yf2c9eRSjrmoa-AqYt4x1XSQ1bp2yfbbuU6fCyQ1yzmq_WwEjSkVCjYxJv_GFTP9KrcdEgv_5T-0h2nvOus5n8T8fmhjvZ5zQPIjjK9XIAuc0vTOZBbPOBEsUHMzGZvNkE--kYmZsVrsPh05DBQOPUNHY/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBNJ3qQP5ZFktifO6Bk5dJco4UC-DIWOckA&s" group-title="Sky Cinema",Sky Cinema Comedy
+http://117.55.202.231:8008/sunshine/VV4zmOKomhqpfVxaa8XPmj1XQshkiECvM6yZI1FI_1tBsmwsA3Ckf3S0HeAA3Q_w3zYnVOwJVaTX4TffQSC0ckbr4-H3VMisDV158baWDUZbKPUApzKGzpfBK5BThDKctYu_eIelfkYyAZMuEvgXd8E7fRANyDqpoRkJZYHemzLNsE0oby9VMmlnSYNnnTALcvyEPY82Misnt5UmbyDP5k0oVB8dqnzswDOwV4nEzQ1CBX6o_W9sidFNJv_3x6PQXsBLCxh6GoDa-kFIofrvzCwycaigD-sA07mMsu2Utic/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Sky_Cinema_Due_%2B24_-_Logo_2021.png" group-title="Sky Cinema",Sky Cinema Due
+http://77.247.109.21:8008/sunshine/z7nghcFxYNxeZDKwEQMUP2yGzykyzHlRoFQgtLNE2TmNb2VABJ__XLTkuw1JrLzii3Xe_SOuxfE-eMikAZo9YmnShT9VYnVm5qXw3bYqNecaKl67koK6vh8LPVtnLacMbs_T0sDTPf96bUQl-Jtc0TnYZScrvF411o0-AXmye_5QY3CgrOy5yupO_7bFLJuoRuLe53p_DRWrhP3W5gTZxtsuC_ojbtDv5OVvZijoYCmkrnCEUBUb-NmOhVw2gUtnHLTGwffXYXm-O4E2hYgW5K-uhueUIO_j1ZBDlR6Ifn0/hls/index.m3u8
+
+
+
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz"
 #EXTINF:-1 channel-id="60940a07d88ba90007b9cb71" tvg-id="60940a07d88ba90007b9cb71" tvg-chno="515" tvg-name="16 Anni e Incinta" tvg-logo="https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png" group-title="Italy",16 Anni e Incinta
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=4d245ae2-2ccb-451b-a017-c0f1cc1cda1c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=97b331f5-1f70-4f43-a21e-1f38a91b1e01&userId=&serverSideAds=true
@@ -574,6 +589,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63eb82e24e83e70008
 https://odmsto.com/returned/668707.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI ITALIA
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+
 
 
 
