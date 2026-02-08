@@ -62,7 +62,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="Digitale Terrestre",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+http://117.55.202.236:8008/sunshine/Eq2i4PC1--687R53CnmbOyuKg1m5szue5K4b1R9MkjJc_8RhoB5dDoKkHDoRVNwAIEw7vJRU8KQXBk-NngZN8WzFXC9JlCr-202WHxVfxvWU3AdAcRMsHS_ygGXd01Fl9Vq1NR2xb7vEA-7B67jSiUmTXq8sCatOIiij3ZYW42Q77rleWw61AVgUX7zzam03DARAwwAOFPOXGIBjtGPm8iZpOxqC-YGGYk01g0tcmAntAIFwU4bSLfLGB5FH9ojoN04m0eA5D8fXIaoVy-DstEKGEyFw8H05kq_gINAavoU/hls/index.m3u8
 #EXTINF:-1 tvg-id="TwentySeven.it" tvg-chno="27" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.png" group-title="Digitale Terrestre",Twenty Seven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
@@ -339,6 +339,8 @@ https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/zerouno-tv-news.png" group-title="Digitale Terrestre",Zerouno Tv News
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sky_Uno_-_Logo_2021.svg/330px-Sky_Uno_-_Logo_2021.svg.png" group-title="Altro",Sky Uno
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/Wp_YkZppLPK_GElHkoM7A_tP0MIEDTTn_qpjkAGXnnOyVSJTc3RBq6S2Uipb8l9eD6I_akY59WinV_hMUgGnNKs8TDiyHWN4EgXod1ejSboRR11D3yNPbYpj3TrG9xrQvz2IIeY9E6kPPbkFHVVima1U-Id4rIN0O4zQw9tJNlPV5GoEWSq768g-f13UXHoY8yw7fxFa7WvCaYTtnz9TlLiBwrzwUCK_aliWJQMPRhAhcXU_x9rbJhDNVWImRxWVIXnnkQ0xkaouH2fiBNjDyv9SwW09xaNmFEdJxYt5z6g/hls/index.m3u8
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz"
 #EXTINF:-1 channel-id="60940a07d88ba90007b9cb71" tvg-id="60940a07d88ba90007b9cb71" tvg-chno="515" tvg-name="16 Anni e Incinta" tvg-logo="https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png" group-title="Italy",16 Anni e Incinta
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=4d245ae2-2ccb-451b-a017-c0f1cc1cda1c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=97b331f5-1f70-4f43-a21e-1f38a91b1e01&userId=&serverSideAds=true
@@ -572,6 +574,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63eb82e24e83e70008
 https://odmsto.com/returned/668707.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI ITALIA
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+
 
 
 
