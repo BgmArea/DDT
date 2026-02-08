@@ -120,7 +120,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUser
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="Digitale Terrestre",Sky TG24
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/qF5Bd9qn9JCSa4btvBbTicNyu6iS-1hjZ26zA3j_Y7mYb4s59UIZrmOOkk_KZgJhmWdayrbLe9rVczXtAE3kpTvr8B81tVzn0wxbuz5xcLXdDcgid2YkHNESAy5nys5hEc-UtnAWsewc9ZRbCD8oLko4tTfpUaDzCnVCuYIrmbTtPO_6ljQy8wHg_aAnrhI8FD_SOYFqMKpXFs22ywNyu8ifM15oKG4TeuDeEyOjnmLF4gdp6du-fgVsC1_Xk-rt4017YZpLr4-AQYvbMaf8bzoZwshpL5eGSdyMdnvYiDg/hls/index.m3u8
+http://45.143.220.208:8008/sunshine/XTGBxh4X4zPmKBd9ePHzl51WwF_7bUa2SLYvCR7WFxEKoVVB6N3Toh5CHF-EJZSdLQAt7OF0Fxvihpb7mxvj2DDk8voIpstlE4zaNHRFY3OSNPoUNuNT-Q_9v-7O57-7EIAKf-qTJuzXqeTfx5cIg1cm2zjeR9sEFGNbHod0WXldB9MeabcGG49nLBkp0J42vmSNjYJQjfHHZ06AJuktIrdqBZbqUuakr293AT4GEg0TKPMZZLhdHUBORDlLdYKffluteqGyXITaE5YCizgfuVgCuDGNiySEopcFh1xkmpc/hls/index.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/1a/Mediaset_TGCom24.png" group-title="Digitale Terrestre",TGCom24
@@ -592,6 +592,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63eb82e24e83e70008
 https://odmsto.com/returned/668707.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI ITALIA
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+
 
 
 
