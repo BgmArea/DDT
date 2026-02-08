@@ -20,7 +20,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png" group-title="Digitale Terrestre",LA7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Digitale Terrestre",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+http://117.55.202.231:8008/sunshine/E5qFVI06YkuVQ_JJlusuReAkKRY6Xt-E6Xj8kVqbkBHP4owAp1s6ieQRiOtxxZQ5bIVo5w4ryy9oVVVYytg8ZX7cnz93ZsZORUkoKmBAli6wCkU9FFPpb_kQ5SuPOTczN_dAzGPhip_dFnPdNGwpDCZOyv9WyCIh4uch07WTBDaIDxAyZHVETbbP3jn-CWaAkOoqJEHPT7OicQk4s_afxeaRqFOSfgYpyooGSvpeAtxo60HzScDClUWzCJ5PU_MIF2MbAeg1RRceVzLCZzyUPJKMOZF114_5D1eAbzkhX2w/hls/index.m3u8
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Digitale Terrestre",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/antenna-sicilia.png" group-title="Digitale Terrestre",Antenna Sicilia
@@ -572,6 +572,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63eb82e24e83e70008
 https://odmsto.com/returned/668707.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI ITALIA
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+
 
 
 
