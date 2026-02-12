@@ -20,7 +20,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png" group-title="Digitale Terrestre",LA7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Digitale Terrestre",TV8
-http://117.55.202.231:8008/sunshine/E5qFVI06YkuVQ_JJlusuReAkKRY6Xt-E6Xj8kVqbkBHP4owAp1s6ieQRiOtxxZQ5bIVo5w4ryy9oVVVYytg8ZX7cnz93ZsZORUkoKmBAli6wCkU9FFPpb_kQ5SuPOTczN_dAzGPhip_dFnPdNGwpDCZOyv9WyCIh4uch07WTBDaIDxAyZHVETbbP3jn-CWaAkOoqJEHPT7OicQk4s_afxeaRqFOSfgYpyooGSvpeAtxo60HzScDClUWzCJ5PU_MIF2MbAeg1RRceVzLCZzyUPJKMOZF114_5D1eAbzkhX2w/hls/index.m3u8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Digitale Terrestre",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/antenna-sicilia.png" group-title="Digitale Terrestre",Antenna Sicilia
@@ -62,7 +62,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="Digitale Terrestre",Cielo
-http://45.143.220.78:8008/sunshine/-68y0_1jsaz9dyBtK1snBhEMV4prdXRkcqqhb5QRFmqPebeOmW00SLMU6MeOe1SNSHHGg253pBPR6bDuRPaLhtjWC2bQ4RQ2sLGMrUkvNmq3dbQBcvf3wQ_lEv6Ry6aZ2NGjj6byYOgxVW2Pulr25hfBfjzXLKRcZTIqLeEpgfbyEUqtrrIRDIkn6I5nxPKQLx_3bBCtyqrV_t47LelKwk6cd7ly_i-3BgwalBRA1iO1einKxluUuWJMJ_wyLA7EMVMnV3jowlWOTcAjjK0XmwKxz4CAoEpdtEOD824gm2w/hls/index.m3u8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="TwentySeven.it" tvg-chno="27" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.png" group-title="Digitale Terrestre",Twenty Seven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
@@ -120,7 +120,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUser
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="Digitale Terrestre",Sky TG24
-http://45.143.220.208:8008/sunshine/XTGBxh4X4zPmKBd9ePHzl51WwF_7bUa2SLYvCR7WFxEKoVVB6N3Toh5CHF-EJZSdLQAt7OF0Fxvihpb7mxvj2DDk8voIpstlE4zaNHRFY3OSNPoUNuNT-Q_9v-7O57-7EIAKf-qTJuzXqeTfx5cIg1cm2zjeR9sEFGNbHod0WXldB9MeabcGG49nLBkp0J42vmSNjYJQjfHHZ06AJuktIrdqBZbqUuakr293AT4GEg0TKPMZZLhdHUBORDlLdYKffluteqGyXITaE5YCizgfuVgCuDGNiySEopcFh1xkmpc/hls/index.m3u8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/1a/Mediaset_TGCom24.png" group-title="Digitale Terrestre",TGCom24
@@ -592,6 +592,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63eb82e24e83e70008
 https://odmsto.com/returned/668707.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI ITALIA
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+
 
 
 
