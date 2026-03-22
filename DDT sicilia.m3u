@@ -31,8 +31,10 @@ https://tivusto.org/sh/telecolorcat
 https://stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8
 #EXTINF:-1 channel-id="608aa17fb9f4490007e6419a" tvg-id="608aa17fb9f4490007e6419a" tvg-chno="200" tvg-name="Pluto TV Film" tvg-logo="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png" group-title="Film",Pluto Tv Film
 https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
-#EXTINF:-1 channel-id="66177d18c8311c0008d077d0" tvg-id="66177d18c8311c0008d077d0" tvg-chno="385" tvg-name="Storie Criminali" tvg-logo="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png" group-title="True Crime",Storie Criminali
-https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
+#EXTINF:0, Trailers
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineit-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-logo="http://odmsto.com/uploads/tv_image/sm/video-regione-sicilia.jpg" group-title="Digitale Terrestre",Video Regione Sicilia
 https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
 #EXTINF:-1 channel-id="61b86ea479a4390007c6d5fc" tvg-id="61b86ea479a4390007c6d5fc" tvg-chno="900" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="News e mondo",Euronews
